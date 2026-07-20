@@ -2,8 +2,8 @@
 
 Source for **[marktschopp.github.io](https://marktschopp.github.io)** — the professional site of
 **Mark Tschopp, PhD**: scientist, leader, educator, and engineer at the DEVCOM Army Research
-Laboratory, working at the intersection of materials science, solid mechanics, machine learning &
-AI, and the science of science.
+Laboratory, with expertise spanning materials science, solid mechanics, machine learning & AI,
+and the science of science.
 
 ## The site
 
